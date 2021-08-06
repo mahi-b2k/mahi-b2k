@@ -1,3 +1,4 @@
 Hi
 This is my first GIT Test File
 This is my second commit
+Test for parallel edit
