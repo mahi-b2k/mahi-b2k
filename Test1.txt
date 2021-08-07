@@ -3,3 +3,4 @@ This is my first GIT Test File
 This is my second commit
 Test for parallel edit
 Commit with cloning the repository
+Entered through clone
