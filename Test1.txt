@@ -1,8 +1,5 @@
 Hi
 This is my first GIT Test File
 This is my second commit
-<<<<<<< HEAD
 Test for parallel edit
-=======
 Commit with cloning the repository
->>>>>>> 9cf4e60ee3bf6bf72809bb859125360c8c045b2d
